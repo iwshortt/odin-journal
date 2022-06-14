@@ -1,4 +1,4 @@
 # odin-journal
-<title>The Journey</title>
-<h1>The First Leg of the Journey</h1>
-<p>A first step into the unknown, The Odin Project. My journey began on June, 7th 2022, with the intention of learning the coding language. Thus far, i've had a few head scratching moments, but for the most part the information is making sense. We started from the ground level where I was introdued to the basics such as, web development and the differences between front end, back end, and full stack development. From there I learned aout the Internet; the differences between the "web", the "internet" and how each work together to produce what us consumers use everyday.</p>
+<h1>The Journey</h1>
+<h2>First Leg of the Journey</h2>
+<p>The first step into the unknown, <em>The Odin Project</em>. My journey began on June, 7th 2022, with the intention of learning the coding language. Thus far, i've had a few head scratching moments, but for the most part the information is making sense. We started from the ground level where I was introdued to the basics such as, web development and the differences between front end, back end, and full stack development. From there I learned aout the Internet; the differences between the "web", the "internet" and how each work together to produce what us consumers use everyday.</p>
